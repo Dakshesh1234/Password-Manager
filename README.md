@@ -1,8 +1,7 @@
 # VaultGuard Password Manager
 
 Welcome to **VaultGuard**, a modern password manager application designed to securely store and manage your passwords. Built with **React**, **Tailwind CSS**, **MongoDB**, and **Express**, VaultGuard offers a seamless, responsive, and secure experience for managing your credentials.
-
-![VaultGuard Logo](path-to-your-logo.png)
+<img width="251" alt="Logo" src="https://github.com/Dakshesh1234/Password-Manager/assets/95707585/171488fc-8cc8-4db8-a72c-f43bab1539c5">
 
 ## Features
 
