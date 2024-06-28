@@ -67,7 +67,7 @@ Ensure you have the following installed on your local development machine:
    ```bash
    npm run dev
    ```
-   Your app should now be running on [http://localhost:5173/]([http://localhost:5173]).
+   Your app should now be running on [http://localhost:5173]([http://localhost:5173]).
    
    **Open Terminal in the beckend folder and Run**
    ```bash
