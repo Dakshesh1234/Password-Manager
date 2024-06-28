@@ -56,15 +56,23 @@ Ensure you have the following installed on your local development machine:
    MONGODB_URI=your-mongodb-uri
    ```
 
-4. **Run the Application**
+4. **Run the Application - Local Storage Version** 
 
    ```bash
-   npm start
-   # or
-   yarn start
+   npm run dev
    ```
-
-   Your app should now be running on [http://localhost:3000](http://localhost:3000).
+4. **Run the Application - MongoDB Storage Version** 
+   **Open Terminal in the main folder and Run**
+   ```bash
+   npm run dev
+   ```
+   Your app should now be running on [http://localhost:5173/]([http://localhost:5173/]).
+   
+   **Open Terminal in the beckend folder and Run**
+   ```bash
+   node --watch server.js
+   ```
+   Your app backend Should now be running on [http://localhost:3000](http://localhost:3000).
 
 ### Project Structure
 
