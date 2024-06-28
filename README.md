@@ -62,8 +62,9 @@ Ensure you have the following installed on your local development machine:
    ```bash
    npm run dev
    ```
-5. **Run the Application - MongoDB Storage Version** 
-   Open Terminal in the main folder and Run
+5. **Run the Application - MongoDB Storage Version**
+
+   Open Terminal in the main folder and run:
    ```bash
    npm run dev
    ```
