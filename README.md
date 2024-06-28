@@ -79,18 +79,18 @@ Ensure you have the following installed on your local development machine:
 
 - **src**
   - **components**
-    - `Navbar.js`: Navigation bar component.
-    - `Manager.js`: Main password manager component.
-    - `Footer.js`: Footer component.
+    - `Navbar.jsx`: Navigation bar component.
+    - `Manager.jsx`: Main password manager component.
+    - `Footer.jsx`: Footer component.
   - **icons**: Directory for icons used in the app.
-  - **App.js**: Main app component.
+  - **App.jsx**: Main app component.
   - **App.css**: CSS file for global styles.
 
 ### Available Scripts
 
 In the project directory, you can run:
 
-- **`npm start`**: Runs the app in development mode.
+- **`npm run dev`**: Runs the app in development mode.
 - **`npm run build`**: Builds the app for production to the `build` folder.
 - **`npm test`**: Launches the test runner in interactive watch mode.
 
@@ -98,9 +98,7 @@ In the project directory, you can run:
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes or enhancements you'd like to see.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgements
 
@@ -112,4 +110,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to customize this description to better fit your project specifics, especially if you have additional features or instructions to include. Add relevant links to images, contributors, or other references to enhance the documentation.
