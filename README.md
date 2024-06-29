@@ -37,7 +37,7 @@ Ensure you have the following installed on your local development machine:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/vaultguard.git
+   git clone https://github.com/Dakshesh1234/VaultGuard
    cd vaultguard
    ```
 
