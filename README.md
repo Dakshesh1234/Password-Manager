@@ -38,7 +38,9 @@ Ensure you have the following installed on your local development machine:
 
    ```bash
    git clone https://github.com/Dakshesh1234/VaultGuard
-   cd vaultguard
+   cd VaultGuard-Local-Storage
+   # or
+   cd VaultGuard-MongoDB
    ```
 
 2. **Install Dependencies**
